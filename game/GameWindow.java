@@ -25,7 +25,9 @@ public class GameWindow extends JFrame implements ActionListener {
     // Variable declaration
     int len, count, rnd, chance, flag;
     String word[] = { "JAPAN", "QATAR", "SYRIA", "MONGOLIA", "RUSSIA", "INDIA", "PAKISTAN", "AUSTRALIA",
-            "AFGHANISTAN", "CHINA" };
+            "AFGHANISTAN", "CHINA", "ENGLAND", "INDONESIA", "THAILAND", "VIETNAM", "MALAYSIA", "PHILIPPINES",
+            "SOUTH AFRICA", "EGYPT", "NIGERIA", "KENYA", "HUNGARY", "AUSTRIA", "GREECE", "TURKEY", "ISRAEL",
+            "FRANCE", "GERMANY", "ITALY", "SPAIN", "PORTUGAL", "NETHERLANDS", "SWITZERLAND", "SWEDEN", "NORWAY" };
     Random rd;
     StringBuffer blanks;
 
